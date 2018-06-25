@@ -49,5 +49,9 @@ npm run dev
 
 Open http://localhost:3000 to see your store.
 
+### Contribution
+
+Please contribute by reporting issues, discussing ideas, or submitting pull requests with patches and new features. I do my best to respond to all issues and pull requests within a day or two.
+
 ## Licence
 This software is provided free of charge and without restriction under the MIT License.
