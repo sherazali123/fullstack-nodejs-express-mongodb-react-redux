@@ -1,7 +1,7 @@
 {
-  "name": "server",
+  "name": "Campainger",
   "version": "1.0.0",
-  "description": "",
+  "description": "Create campaign and start getting response from users via emails for the campaigns",
   "main": "index.js",
   "engines": {
     "node": "8.1.1",
